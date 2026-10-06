@@ -37,7 +37,7 @@ This card is written from the paper, *Beyond the Model* (see "How to cite"), and
 | Model type | A non-traditional model: a fixed policy plus persistent, evidence-bearing project state. No weights, nothing trained. |
 | Runs on | Python 3.11 or newer with the standard library only, and a web browser for the Studio. An earlier Core snapshot passed 88/88 tests on Windows 11 with Python 3.13, and 84 tests with 4 platform skips on Linux; macOS is not yet verified. |
 | Paper | *Beyond the Model: Runesmith, an Open Runtime That Improves Software and Itself, and the Instrument–Substrate Hypothesis*, 6 October 2026. Preprint; not peer reviewed. |
-| Links | Code: [repository](https://github.com/Veristria/runesmith). Paper: [PDF](https://aithinklab.com/paper/beyond-the-model.pdf). Technical report: [PDF](https://aithinklab.com/paper/beyond-the-model-technical-report.pdf). Guide: [guide](https://aithinklab.com/guide/). Evidence and data: [AIThinkLab/runesmith-evidence](https://huggingface.co/datasets/AIThinkLab/runesmith-evidence) (session tables, recompute scripts, seal records). |
+| Links | Website: [aithinklab.com](https://aithinklab.com). Code: [repository](https://github.com/Veristria/runesmith). Paper: [PDF](https://aithinklab.com/paper/beyond-the-model.pdf), DOI [10.5281/zenodo.23196763](https://doi.org/10.5281/zenodo.23196763). Technical report: [PDF](https://aithinklab.com/paper/beyond-the-model-technical-report.pdf). Guide: [guide](https://aithinklab.com/guide/). Evidence and data: [aithinklab/runesmith-evidence](https://huggingface.co/datasets/aithinklab/runesmith-evidence) (session tables, recompute scripts, seal records). Film: [YouTube](https://youtu.be/cmb_zbqrKvA). |
 
 ## What kind of model this is
 
