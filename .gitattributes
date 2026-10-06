@@ -1,0 +1,10 @@
+# Runesmith's digests (kernel, organs, generations) are computed over bytes, so every checkout keeps LF,
+# whatever the platform. The Windows launcher is the one exception: cmd.exe wants CRLF.
+* text=auto eol=lf
+*.cmd text eol=crlf
+*.png binary
+*.zip binary
+# Field-training logs are evidence: receipts may hash them, and some have mixed line endings, so keep their exact bytes.
+TRAINER_LOG.md -text
+READ_ME_TRAINER_NOW.md -text
+training/**/*.md -text
