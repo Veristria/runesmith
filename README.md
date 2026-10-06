@@ -2,6 +2,8 @@
 
 **A non-traditional model that turns the AI model you already have into a builder of real software.**
 
+**[Website](https://aithinklab.com)** · **[The paper](https://aithinklab.com/paper/beyond-the-model.pdf)** (DOI [10.5281/zenodo.23196763](https://doi.org/10.5281/zenodo.23196763)) · [Technical report](https://aithinklab.com/paper/beyond-the-model-technical-report.pdf) · [Evidence](https://huggingface.co/datasets/aithinklab/runesmith-evidence) · [The film](https://youtu.be/cmb_zbqrKvA) · [Free guide](https://aithinklab.com/guide/) · [For AI agents: AGENTS.md](AGENTS.md)
+
 [Quick start](#quick-start-in-60-seconds) · [What the Studio does](#what-the-studio-does) · [The paper](#the-paper) · [The guide](#the-guide) · [License](#license) · [Contributing](#contributing) · [Reference](#reference-the-command-line-and-the-internals)
 
 ## What Runesmith is
