@@ -6,6 +6,8 @@
 
 [Quick start](#quick-start-in-60-seconds) · [What the Studio does](#what-the-studio-does) · [The paper](#the-paper) · [The guide](#the-guide) · [License](#license) · [Contributing](#contributing) · [Reference](#reference-the-command-line-and-the-internals)
 
+Quick start in other languages: [हिन्दी (Hindi)](docs/i18n/QUICKSTART.hi.md)
+
 ## What Runesmith is
 
 Runesmith is a *non-traditional model*. It has no weights of its own. It is a system that wraps a model and makes that model useful for building software, whichever model you have:
