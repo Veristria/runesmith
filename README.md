@@ -6,7 +6,7 @@
 
 [Quick start](#quick-start-in-60-seconds) · [What the Studio does](#what-the-studio-does) · [The paper](#the-paper) · [The guide](#the-guide) · [License](#license) · [Contributing](#contributing) · [Reference](#reference-the-command-line-and-the-internals)
 
-Quick start in other languages: [हिन्दी (Hindi)](docs/i18n/QUICKSTART.hi.md)
+Quick start in other languages: [हिन्दी (Hindi)](docs/i18n/QUICKSTART.hi.md) · [Español (Spanish)](docs/i18n/QUICKSTART.es.md)
 
 ## What Runesmith is
 
